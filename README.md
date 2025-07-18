@@ -23,7 +23,7 @@ Keep in mind that you only have 73 skills. If summary of soul parts is more you'
 
 Next one is list of skills. All skills | first tree | soul part from first tree | sec tree | sec SP
 
-You can change ammount of attempts on line
+You can change amount of attempts on line
 'distribution = distribute_skills(tries=1000000)'
 If you really need perfect result for ALL 73 skills, lol
 
