@@ -8,7 +8,7 @@ First list is made if trees and amount of slots you're going to use. Prefereble 
 High use of warps and skips, yet you can any way fill not used slots after the count
 
 Optimised restribution
-0 1 1 0 0 0 1 1 1 
+0 1 1 0 0 0 1 1 1  
 0 0 0 1 1 1 1 1 1
 0 0 0 1 1 1 1 1 1
 0 0 0 0 1 1 1 1 1
