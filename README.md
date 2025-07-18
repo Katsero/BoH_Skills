@@ -7,16 +7,16 @@ Any way, here is a code that helps to get all wanted soul parts from tree (If yo
 First list is made if trees and amount of slots you're going to use. Prefereble NOT to touch it, here is my minimal distribution tree (all branches in order from upper one - Illumination.
 High use of warps and skips, yet you can any way fill not used slots after the count
 
-Optimised restribution
-    0 1 1 0 0 0 1 1 1  
-    0 0 0 1 1 1 1 1 1
-    0 0 0 1 1 1 1 1 1
-    0 0 0 0 1 1 1 1 1
-    0 1 0 1 1 1 1 1 1
-    1 0 1 1 1 1 1 1 1
-    0 0 0 0 1 1 1 1 1
-    1 1 1 1 1 1 1 1 1
-    1 1 0 0 1 1 1 1 1
+Optimised restribution<br />
+0 1 1 0 0 0 1 1 1<br />
+0 0 0 1 1 1 1 1 1<br />
+0 0 0 1 1 1 1 1 1<br />
+0 0 0 0 1 1 1 1 1<br />
+0 1 0 1 1 1 1 1 1<br />
+1 0 1 1 1 1 1 1 1<br />
+0 0 0 0 1 1 1 1 1<br />
+1 1 1 1 1 1 1 1 1<br />
+1 1 0 0 1 1 1 1 1<br />
 
 Next ones are skills you want to obtain from attaching all skills to slots. Preferable is  setting everything to 8 (and you can except the ones obtained from start as I did for Architect)
 Keep in mind that you only have 73 skills. If summary of soul parts is more you'll never get the result. And the more hard task might take more time or may not be resultative (Got one of mine on attempt 439402)
