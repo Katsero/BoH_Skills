@@ -4,8 +4,8 @@ Skills restribution within tree
 Made By Katsero. Sorry for Russian in code, too lazy to translate, let's say you have a translator, right? My apologies
 
 Any way, here is a code that helps to get all wanted soul parts from tree (If you have same ADHD and perfectionism trait).
-First list is made if trees and amount of slots you're going to use. Prefereble NOT to touch it, here is my minimal distribution tree (all branches in order from upper one - Illumination.
-High use of warps and skips, yet you can any way fill not used slots after the count
+First list is made if trees and amount of slots you're going to use. Prefereble NOT to touch it, here is my minimal distribution tree (all branches in order from upper one - Illumination).
+High use of warps and skips to get all wisdoms to level 9, yet you can still fill unused slots in process.
 
 Optimised restribution<br />
 0 1 1 0 0 0 1 1 1<br />
