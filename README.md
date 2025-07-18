@@ -7,8 +7,7 @@ Any way, here is a code that helps to get all wanted soul parts from tree (If yo
 First list is made if trees and amount of slots you're going to use. Prefereble NOT to touch it, here is my minimal distribution tree (all branches in order from upper one - Illumination.
 High use of warps and skips, yet you can any way fill not used slots after the count
 
-```
-Optimised restribution
+```Optimised restribution
 0 1 1 0 0 0 1 1 1  
 0 0 0 1 1 1 1 1 1
 0 0 0 1 1 1 1 1 1
